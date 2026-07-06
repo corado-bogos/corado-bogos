@@ -1,18 +1,21 @@
+[README.md](https://github.com/user-attachments/files/29686458/README.md)
 # Hi, I'm Corado 👋
 
-**Building software with AI • Student Developer • Clean code • Lifelong learner.**
+**Bash developer on macOS • Learning Swift & SwiftUI • Clean code • Lifelong learner.**
 
-Beginner-friendly developer focused on clean, well-documented tools — mostly **Bash** and **Python**, on **macOS**.
+I build clean, well-documented terminal tools in **Bash** on **macOS** — and I'm currently learning native app development with **Swift** and **SwiftUI**.
 
 ## 🚀 Projects
 
 - **[yt-dlp-media-tools](https://github.com/corado-bogos/yt-dlp-media-tools)** — a beginner-friendly macOS terminal tool that wraps `yt-dlp` in a simple step-by-step interface for downloading video, audio, and playlists. *(Bash)*
-- **[project-01-smart-console-assistant](https://github.com/corado-bogos/project-01-smart-console-assistant)** — a multi-tool Python console app: calculator, temperature/weight converters, and a Madlibs game.
-- **[temperature_conversion_program](https://github.com/corado-bogos/temperature_conversion_program)** · **[weight_conversion_program](https://github.com/corado-bogos/weight_conversion_program)** · **[madlibs_game](https://github.com/corado-bogos/madlibs_game)** — small Python learning projects.
+
+## 📚 Currently learning
+
+- **[100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)** by Hacking with Swift — learning Swift and SwiftUI seriously, one day at a time, to build native macOS and iOS apps.
 
 ## 🧰 Tech
 
-`Bash` · `Python` · `macOS` · `Git` · `Shell scripting`
+`Bash` · `Shell scripting` · `macOS` · `Git` · `Swift` · `SwiftUI` *(learning)*
 
 ## 📫 Reach me
 
